@@ -7,7 +7,7 @@ Summary:
   - Setosa vs Non Setosa
   - Versicolor vs Non Versicolor
 - Kita bisa extract parameter `coef_` dan `intercept_` untuk digunakan membuat Decision Boundary
-- Untuk membuat Decision Boundary, kita membutuhkan garis lurus. Kita bisa menggunakan rumus turunan dari fungsi Sigmoid. Detail nya ada [disini](https://jamboard.google.com/u/2/d/1InW1wGqzsd0JmKNTGvWo7ir1Ku7hWXm2s6Tj83bdXc4/viewer?f=3)
+- Untuk membuat Decision Boundary, kita membutuhkan garis lurus. Kita bisa menggunakan rumus turunan dari fungsi Sigmoid. Detail nya ada [disini](https://jamboard.google.com/d/1InW1wGqzsd0JmKNTGvWo7ir1Ku7hWXm2s6Tj83bdXc4/viewer?f=0)
 - Sehingga kita tinggal plug in aja nilai parameter yang sudah kita modeling kan
 - Setelah melakukan eksperimen menggunakan scaling dan tidak menggunakan scaling didapatkan hasil:
   - Secara overall, bentuk dari Decision Boundary nya masih sama, cuma beda scale atau range data nya aja
